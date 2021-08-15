@@ -1,0 +1,12 @@
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim Bilgileri.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim_Bilgileri.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim Bilgileri.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim Bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\bin\Debug\İletişim Bilgileri.exe.config
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\bin\Debug\İletişim Bilgileri.exe
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\bin\Debug\İletişim Bilgileri.pdb
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim Bilgileri.exe
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim Bilgileri.pdb
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim_Bilgileri.AnaSayfa.resources
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim_Bilgileri.Giriş.resources
+C:\Users\Metin\source\repos\Metin Form\İletişim Bilgileri\İletişim Bilgileri\obj\Debug\İletişim_Bilgileri.Kaydol.resources
